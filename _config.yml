@@ -1,7 +1,1 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
-baseurl: https://cdn.jsdelivr.net/gh/blgfish/blgfish.github.io/
-url: https://i.jojomo.xyz
-# theme
 theme: jekyll-theme-cayman
