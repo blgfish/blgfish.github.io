@@ -1,8 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: https://cdn.jsdelivr.net/gh/blgfish/blgfish.github.io/
 url: https://i.jojomo.xyz
-cdnurl: https://cdn.jsdelivr.net/gh/blgfish/blgfish.github.io/
 # theme
 theme: jekyll-theme-cayman
