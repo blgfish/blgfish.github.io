@@ -3,10 +3,6 @@
 # ---------------- #
 baseurl:
 url: https://i.jojomo.xyz
-repository: blgfish/blgfish.github.io
-# 对 css 和 js 资源的 cdn 加速配置
-cdn:
-    jsdelivr:
-        enabled: true
+cdnurl: https://cdn.jsdelivr.net/gh/blgfish/blgfish.github.io/
 # theme
 theme: jekyll-theme-cayman
