@@ -1,5 +1,5 @@
 {
-	"version":"20201127",
+	"version":"20201213",
 	"data": [{
 		"name" : "美团外卖红包",
 		"icon" : "https://www.dogedoge.com/favicon/i.waimai.meituan.com.ico",
@@ -16,13 +16,13 @@
 		"name" : "饿了么外卖红包",
 		"icon" : "https://www.dogedoge.com/favicon/h5.ele.me.ico",
 		"banner" : "https://gw.alicdn.com/tfs/TB1UOqECi_1gK0jSZFqXXcpaXXa-800-451.png_640x480q60_.webp",
-		"url" : "https://m.tb.cn/h.4WfPzR5",
+		"url" : "https://m.tb.cn/h.4gG7MIC",
 		"deeplink": ""
 	},{
 		"name" : "饿了么果蔬红包",
 		"icon" : "https://www.dogedoge.com/favicon/h5.ele.me.ico",
 		"banner" : "https://img.alicdn.com/tfs/TB1MFLP0UH1gK0jSZSyXXXtlpXa-750-400.jpg_640x480q60_.webp",
-		"url" : "https://m.tb.cn/h.4d9Bfje",
+		"url" : "https://m.tb.cn/h.4UOvJeh",
 		"deeplink": ""
 	}]
 }
