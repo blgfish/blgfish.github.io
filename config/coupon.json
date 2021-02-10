@@ -1,28 +1,36 @@
 {
-	"version":"20210205",
-	"data": [{
-		"name" : "美团外卖红包",
-		"icon" : "https://www.dogedoge.com/favicon/i.waimai.meituan.com.ico",
-		"banner" : "https://s3plus.sankuai.com/v1/mss_5017c592a8a946d2a54eb62a76ba299c/nebulafile/a89637f2c503ea874117429dc6768e4c.jpg",
-		"url": "https://runion.meituan.com/url?key=a144a9fa40a42c55af00214bb4bb3993971&url=https%3A%2F%2Fi.meituan.com%2Fawp%2Fhfe%2Fblock%2Fa945391288b790d558b7%2F78716%2Findex.html%3Fappkey%3Da144a9fa40a42c55af00214bb4bb3993971%3A6056dingdanxiajoinM&sid=6056dingdanxiajoinM",
-		"deeplink": "imeituan://www.meituan.com/web?lch=cps:waimai:3:a144a9fa40a42c55af00214bb4bb3993971:6056dingdanxiajoinM&url=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3Da144a9fa40a42c55af00214bb4bb3993971%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa945391288b790d558b7%252F78716%252Findex.html%253Fappkey%253Da144a9fa40a42c55af00214bb4bb3993971%253A6056dingdanxiajoinM%26sid%3D6056dingdanxiajoinM"
-	},{
-		"name" : "美团商超红包",
-		"icon" : "https://www.dogedoge.com/favicon/i.waimai.meituan.com.ico",
-		"banner" : "https://s3plus.sankuai.com/v1/mss_5017c592a8a946d2a54eb62a76ba299c/nebulafile/2cc7fb2c51daa72501044f9da4170115.jpg",
-		"url": "https://runion.meituan.com/url?key=a144a9fa40a42c55af00214bb4bb3993971&url=https%3A%2F%2Fi.meituan.com%2Fawp%2Fhfe%2Fblock%2F652c4b9d8a2425a98ca5%2F92207%2Findex.html%3Fappkey%3Da144a9fa40a42c55af00214bb4bb3993971%3A6056dingdanxiajoinM&sid=6056dingdanxiajoinM",
-		"deeplink": "imeituan://www.meituan.com/web?lch=cps:waimai:3:a144a9fa40a42c55af00214bb4bb3993971:6056dingdanxiajoinM&url=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3Da144a9fa40a42c55af00214bb4bb3993971%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252F652c4b9d8a2425a98ca5%252F92207%252Findex.html%253Fappkey%253Da144a9fa40a42c55af00214bb4bb3993971%253A6056dingdanxiajoinM%26sid%3D6056dingdanxiajoinM"
-	},{
-		"name" : "饿了么外卖红包",
-		"icon" : "https://www.dogedoge.com/favicon/h5.ele.me.ico",
-		"banner" : "https://gw.alicdn.com/tfs/TB1UOqECi_1gK0jSZFqXXcpaXXa-800-451.png_640x480q60_.webp",
-		"url" : "https://m.tb.cn/h.4QaxvEA",
-		"deeplink": ""
-	},{
-		"name" : "饿了么果蔬红包",
-		"icon" : "https://www.dogedoge.com/favicon/h5.ele.me.ico",
-		"banner" : "https://img.alicdn.com/tfs/TB1MFLP0UH1gK0jSZSyXXXtlpXa-750-400.jpg_640x480q60_.webp",
-		"url" : "https://m.tb.cn/h.4QaCl9I",
-		"deeplink": ""
-	}]
+	"version":"20210210",
+	"data": {
+		"waiMai" : [{
+			"title" : "美团外卖红包",
+			"img" : "https://p1.meituan.net/travelcube/faaad8b3a089b1adb237921e1b4dc873246109.png.webp",
+			"url" : "https://runion.meituan.com/url?key=a144a9fa40a42c55af00214bb4bb3993971&url=https%3A%2F%2Fi.meituan.com%2Fawp%2Fhfe%2Fblock%2Fa945391288b790d558b7%2F78716%2Findex.html%3Fappkey%3Da144a9fa40a42c55af00214bb4bb3993971%3A6056dingdanxiajoinM&sid=6056dingdanxiajoinM",
+			"deeplink" : "imeituan://www.meituan.com/web?lch=cps:waimai:3:a144a9fa40a42c55af00214bb4bb3993971:6056dingdanxiajoinM&url=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3Da144a9fa40a42c55af00214bb4bb3993971%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa945391288b790d558b7%252F78716%252Findex.html%253Fappkey%253Da144a9fa40a42c55af00214bb4bb3993971%253A6056dingdanxiajoinM%26sid%3D6056dingdanxiajoinM",
+			"opentype" : "click"
+		},{
+			"title" : "美团商超红包",
+			"img" : "https://p1.meituan.net/travelcube/6a63b5fce61875aae1ed5c825385f1b5183209.jpg.webp",
+			"url" : "https://runion.meituan.com/url?key=a144a9fa40a42c55af00214bb4bb3993971&url=https%3A%2F%2Fi.meituan.com%2Fawp%2Fhfe%2Fblock%2F652c4b9d8a2425a98ca5%2F92207%2Findex.html%3Fappkey%3Da144a9fa40a42c55af00214bb4bb3993971%3A6056dingdanxiajoinM&sid=6056dingdanxiajoinM",
+			"deeplink" : "imeituan://www.meituan.com/web?lch=cps:waimai:3:a144a9fa40a42c55af00214bb4bb3993971:6056dingdanxiajoinM&url=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3Da144a9fa40a42c55af00214bb4bb3993971%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252F652c4b9d8a2425a98ca5%252F92207%252Findex.html%253Fappkey%253Da144a9fa40a42c55af00214bb4bb3993971%253A6056dingdanxiajoinM%26sid%3D6056dingdanxiajoinM",
+			"opentype" : "click"
+		},{
+			"title" : "饿了么外卖红包",
+			"img" : "https://gw.alicdn.com/imgextra/i1/O1CN01GGcf9O1X9XixCY1yc_!!6000000002881-2-tps-800-451.png_640x480q60_.webp",
+			"url" : "https://m.tb.cn/h.4QaxvEA",
+			"deeplink" : "",
+			"opentype" : "click"
+		},{
+			"title" : "饿了么果蔬红包",
+			"img" : "https://gw.alicdn.com/imgextra/i4/O1CN01NdJ6No1JYoxm5FqzQ_!!6000000001041-0-tps-800-451.jpg_640x480q60_.webp",
+			"url" : "https://m.tb.cn/h.4QaCl9I",
+			"deeplink" : "",
+			"opentype" : "click"
+		}],
+		"redCover" : [{
+			"title" : "压岁钱",
+			"img" : "https://gd4.alicdn.com/imgextra/i4/97256914/O1CN01AzezKU20wf3ipp4BI_!!97256914.jpg",
+			"url" : "https://item.taobao.com/item.htm?id=637925097338",
+			"deeplink" : "taobao://detail.tmall.com/item.htm?id=637925097338"
+		}]
+	}
 }
