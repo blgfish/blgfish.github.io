@@ -27,7 +27,7 @@
 			"opentype" : "click"
 		}],
 		"redCover" : [{
-			"title" : "压岁钱",
+			"title" : "压岁钱-你压没压我?",
 			"img" : "https://gd4.alicdn.com/imgextra/i4/97256914/O1CN01AzezKU20wf3ipp4BI_!!97256914.jpg",
 			"url" : "https://item.taobao.com/item.htm?id=637925097338",
 			"deeplink" : "taobao://detail.tmall.com/item.htm?id=637925097338"
@@ -36,16 +36,6 @@
 			"img" : "https://gd2.alicdn.com/imgextra/i4/97256914/O1CN011b7xOS20wf3i5iHUs_!!97256914.jpg",
 			"url" : "https://item.taobao.com/item.htm?id=637582160422",
 			"deeplink" : "taobao://detail.tmall.com/item.htm?id=637582160422"
-		},{
-			"title" : "压岁钱",
-			"img" : "https://gd4.alicdn.com/imgextra/i4/97256914/O1CN01AzezKU20wf3ipp4BI_!!97256914.jpg",
-			"url" : "https://item.taobao.com/item.htm?id=637925097338",
-			"deeplink" : "taobao://detail.tmall.com/item.htm?id=637925097338"
-		},{
-			"title" : "压岁钱",
-			"img" : "https://gd4.alicdn.com/imgextra/i4/97256914/O1CN01AzezKU20wf3ipp4BI_!!97256914.jpg",
-			"url" : "https://item.taobao.com/item.htm?id=637925097338",
-			"deeplink" : "taobao://detail.tmall.com/item.htm?id=637925097338"
 		}]
 	}
 }
