@@ -1,5 +1,5 @@
 {
-	"version":"20210210",
+	"version":"20210302",
 	"data": {
 		"waiMai" : [{
 			"title" : "美团外卖红包",
@@ -16,26 +16,16 @@
 		},{
 			"title" : "饿了么外卖红包",
 			"img" : "https://gw.alicdn.com/imgextra/i1/O1CN01GGcf9O1X9XixCY1yc_!!6000000002881-2-tps-800-451.png_640x480q60_.webp",
-			"url" : "https://m.tb.cn/h.4QaxvEA",
+			"url" : "https://m.tb.cn/h.4kEEsy4",
 			"deeplink" : "",
 			"opentype" : "click"
 		},{
 			"title" : "饿了么果蔬红包",
 			"img" : "https://gw.alicdn.com/imgextra/i4/O1CN01NdJ6No1JYoxm5FqzQ_!!6000000001041-0-tps-800-451.jpg_640x480q60_.webp",
-			"url" : "https://m.tb.cn/h.4QaCl9I",
+			"url" : "https://m.tb.cn/h.4kevv0v",
 			"deeplink" : "",
 			"opentype" : "click"
 		}],
-		"redCover" : [{
-			"title" : "你压没压我?",
-			"img" : "https://gd4.alicdn.com/imgextra/i4/97256914/O1CN01AzezKU20wf3ipp4BI_!!97256914.jpg",
-			"url" : "https://item.taobao.com/item.htm?id=637925097338",
-			"deeplink" : "taobao://detail.tmall.com/item.htm?id=637925097338"
-		},{
-			"title" : "牛气冲天",
-			"img" : "https://gd2.alicdn.com/imgextra/i4/97256914/O1CN011b7xOS20wf3i5iHUs_!!97256914.jpg",
-			"url" : "https://item.taobao.com/item.htm?id=637582160422",
-			"deeplink" : "taobao://detail.tmall.com/item.htm?id=637582160422"
-		}]
+		"redCover" : []
 	}
 }
