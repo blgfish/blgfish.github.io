@@ -13,19 +13,14 @@
 			"url" : "https://click.meituan.com/t?t=1&c=1&p=OWMpZ-uzIFOVe6JyOONs3cgFtCGIpBffprPipc5RY4weWgO1Lyt_UvwcB0Swox5ulcg6NfzT69VPd01Zxy5Nnpuh_CVBT9sYw0-ts3lE17P4MfaBkr-vy035BZUKxIR0g-99nN9gkJnytGwyCteM2fREGbJp2bCETLMTZg_TTXfu_gPXs6q-qtpKE82UoiQlFhINooxsl7fzgh_dlDSJsGFwEKafcX6FQgTubkSeVug9k6VwqmyZ4A1mdD7QAz5LRwGeAg9b7DSgtsGk50rvFLIjzJWllUylMTiBvnYyjYzE3DqxOflLrc5ZUjIHZ_2HB3JUTT_2xULaHiHB1HxERHf01VSbNBNayvUUNV1BNnDL85xmwd2AqT70l_hm7qS1o7VKbEIsIXWoY_Jmrq8iXjX6E74ys7Z3zQBcIFXaTIOyTNCSgH8xqV9ddpg5mexRhLUTs_ofMFQynZS7z5gFbpT3Ama38gv9d7DClNqaepZiSe2DwFenKahBQxeSWhUT0LljXgL1Hak2GFs_G9KP2IaXISGEl0kZZMUUScxk9G_zFBR98FXZJW6g32AGDOBQ-PvnzD9b-PaDNDC2wlJGbzo2Ja3GMT4KSCENyB_guV4R_RrN8ndtRgq6_zdb9bBUXaYGCdGrOuOJpM_Q3lfUc8y4aLCVWpaOFp9t1yyEN7YHEiPu5WRQoNo5D1hinDZ3kW-EQ2qsDq1FHusqFLUF5uiHU0G4KDudB2zMR6opefHBb3aoyc9HndIAmpcXrNp047mt_BnsxWpdYfsVSBRw_w",
 			"deeplink" : "imeituan://www.meituan.com/web?lch=cps:waimai:3:a144a9fa40a42c55af00214bb4bb3993971:6056dingdanxiajoinM&url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D1%26p%3DOWMpZ-uzIFOVe6JyOONs3cgFtCGIpBffprPipc5RY4weWgO1Lyt_UvwcB0Swox5ulcg6NfzT69VPd01Zxy5Nnpuh_CVBT9sYw0-ts3lE17P4MfaBkr-vy035BZUKxIR0g-99nN9gkJnytGwyCteM2fREGbJp2bCETLMTZg_TTXfu_gPXs6q-qtpKE82UoiQlFhINooxsl7fzgh_dlDSJsGFwEKafcX6FQgTubkSeVug9k6VwqmyZ4A1mdD7QAz5LRwGeAg9b7DSgtsGk50rvFLIjzJWllUylMTiBvnYyjYzE3DqxOflLrc5ZUjIHZ_2HB3JUTT_2xULaHiHB1HxERHf01VSbNBNayvUUNV1BNnDL85xmwd2AqT70l_hm7qS1o7VKbEIsIXWoY_Jmrq8iXjX6E74ys7Z3zQBcIFXaTIOyTNCSgH8xqV9ddpg5mexRhLUTs_ofMFQynZS7z5gFbpT3Ama38gv9d7DClNqaepZiSe2DwFenKahBQxeSWhUT0LljXgL1Hak2GFs_G9KP2IaXISGEl0kZZMUUScxk9G_zFBR98FXZJW6g32AGDOBQ-PvnzD9b-PaDNDC2wlJGbzo2Ja3GMT4KSCENyB_guV4R_RrN8ndtRgq6_zdb9bBUXaYGCdGrOuOJpM_Q3lfUc8y4aLCVWpaOFp9t1yyEN7YHEiPu5WRQoNo5D1hinDZ3kW-EQ2qsDq1FHusqFLUF5uiHU0G4KDudB2zMR6opefHBb3aoyc9HndIAmpcXrNp047mt_BnsxWpdYfsVSBRw_w",
 			"opentype" : "click"
-		},{
-			"title" : "饿了么外卖红包",
-			"img" : "https://gw.alicdn.com/tfs/TB1mUIwu639YK4jSZPcXXXrUFXa-800-451.png_640x480q60_.webp",
-			"url" : "https://m.tb.cn/h.4yam293",
-			"deeplink" : "",
-			"opentype" : "click"
-		},{
-			"title" : "饿了么果蔬红包",
-			"img" : "https://gw.alicdn.com/imgextra/i1/O1CN01aj7SXV1zp2rk9u0CX_!!6000000006762-0-tps-800-451.jpg_640x480q60_.webp",
-			"url" : "https://m.tb.cn/h.4CduAHp",
-			"deeplink" : "",
-			"opentype" : "click"
 		}],
-		"redCover" : []
+		"redCover" : [],
+		"appList" : [{
+			"title" : "全本小说福利",
+			"img" : "https://z3.ax1x.com/2021/11/24/oPYBmd.png",
+			"url" : "https://a.app.qq.com/o/simple.jsp?pkgname=fun.jiaying.dxxs",
+			"deeplink" : "dxxs://",
+			"opentype" : "click"
+		}]
 	}
 }
